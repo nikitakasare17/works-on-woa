@@ -141230,5 +141230,736 @@
     "link": "https://qzs.qq.com/qzone/photo/zone/upload/setupNew.html?from=oldsetup",
     "validation": "qualcomm",
     "lastUpdated": "2026-06-17"
+  },
+  {
+    "slug": "avevaedge",
+    "name": "AVEVA Edge",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "AVEVA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2023.1.0.0",
+    "link": "https://www.aveva.com/en/products/edge/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "ignitionscada",
+    "name": "Ignition SCADA",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Inductive Automation",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.1.47",
+    "link": "Download Ignition by Inductive Automation",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "siemenstiaportal",
+    "name": "Siemens TIA Portal",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "v20",
+    "link": "https://support.industry.siemens.com/cs/document/109963850/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v20-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticstep7",
+    "name": "SIMATIC STEP 7",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "21",
+    "link": "https://support.industry.siemens.com/cs/document/109989774/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v21-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticstep7safety",
+    "name": "SIMATIC STEP 7 Safety",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "21",
+    "link": "https://support.industry.siemens.com/cs/document/109989774/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v21-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticscadawincc",
+    "name": "SIMATIC SCADA (WinCC)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "21",
+    "link": "https://support.industry.siemens.com/cs/document/109989774/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v21-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticwinccunifiedpcruntime",
+    "name": "SIMATIC WinCC Unified PC Runtime",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7",
+    "link": "https://support.industry.siemens.com/cs/document/109991137/simatic-wincc-unified-pc-runtime-v21-simulation-trial?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "daqfactory",
+    "name": "DAQFactory",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "AzeoTech",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "18.1",
+    "link": "https://www.azeotech.com/downloads.php",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "frameworxv10",
+    "name": "FrameworX v10",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Tatsoft",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "10.5",
+    "link": "https://tatsoft.com/fx-101/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "laquisscada",
+    "name": "Laquis SCADA",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Laquis",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.5",
+    "link": "http://www.laquis.com/downloads.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "rapidscada",
+    "name": "Rapid SCADA",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Rapid SCADA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "6.4.6",
+    "link": "https://rapidscada.org/download-all-files/user-profile/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "microsoftsqlserver2025",
+    "name": "Microsoft SQL Server 2025",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Microsoft",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "17.0.1000.7",
+    "link": "https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2025?view=sql-server-ver16",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "deviceonsqmanager",
+    "name": "DeviceOn SQ Manager",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "HiveMQ",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "4",
+    "link": "https://www.hivemq.com/downloads/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "hivemq",
+    "name": "HiveMQ",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Tatsoft",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.22",
+    "link": "https://www.tatsoft.com/downloads/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "scytecdataxchangeservice",
+    "name": "Scytec DataXchange Service",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "Scytec",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "14.0.0.0",
+    "link": "https://scytec.com/download/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "prtg",
+    "name": "PRTG",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "Paessler",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.2.116.1542",
+    "link": "https://www.paessler.com/prtg",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "emqxedge",
+    "name": "EMQX Edge",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "EMX",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.0",
+    "link": "https://www.emqx.com/en/products/emqx-edge",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "winloglite",
+    "name": "Winlog Lite",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Sielco Sistemi",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.50.0",
+    "link": "https://www.sielcosistemi.com/en/download/public/winlog_lite.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "winlogevo",
+    "name": "Winlog Evo",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Sielco Sistemi",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.0.32.0",
+    "link": "https://www.sielcosistemi.com/en/download/public/winlog_evo.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "reliance5",
+    "name": "Reliance 5",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Reliance",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "5.0.2",
+    "link": "https://www.reliance-scada.com/en/main",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "indraworks",
+    "name": "IndraWorks",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Bosch Rexroth",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.0.1156.0",
+    "link": "https://www.boschrexroth.com/en/us/search.html?q=indraworks&origin=software_search&dnavs=DC_mediatype%3Adc_media_type_software&num=10&s=download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "webvisit6pro",
+    "name": "Webvisit 6 Pro",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Phoenix Contact",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.90.3146.0",
+    "link": "https://www.phoenixcontact.com/en-us/products/visualization-webvisit-6-pro-2700949",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "wagogodoctor",
+    "name": "WAGO GoDoctor",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "WAGO",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.005",
+    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "wagozukene3interface",
+    "name": "WAGO-ZUKEN E3-Interface",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "WAGO",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.16",
+    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "wagoeplanintewrface64bit",
+    "name": "WAGO-EPLAN-Intewrface 64Bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "WAGO",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.6",
+    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "opcuaclients",
+    "name": "OPC UA Clients",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Unified Automation",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.0.2-665",
+    "link": "https://www.unified-automation.com/downloads.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "shrelock73264bit",
+    "name": "Shrelock 7 32/64-bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Teledyne DALSA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.30.00",
+    "link": "https://www.teledynedalsa.com/en/SUPPORT/downloads-center/application-software/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "sherlock864bit",
+    "name": "Sherlock 8 64-bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Teledyne DALSA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.40.00",
+    "link": "https://www.teledynedalsa.com/en/SUPPORT/downloads-center/application-software/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "inspect3264bit",
+    "name": "iNspect 32/64-bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Teledyne DALSA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2281",
+    "link": "https://www.teledynedalsa.com/en/SUPPORT/downloads-center/application-software/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "visiondevelopmentmodule",
+    "name": "Vision Development Module",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.vision-development-module.html#590238",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "teststand",
+    "name": "Test Stand",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.teststand.html#585885",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "systemlinkclient",
+    "name": "SystemLink Client",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.systemlink-client.html#590005",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "instrumentstudio",
+    "name": "InstrumentStudio",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.instrumentstudio.html#590029",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "commandexpert",
+    "name": "Command Expert",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Keysight",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.13.10",
+    "link": "https://www.keysight.com/us/en/lib/software-detail/computer-software/command-expert-downloads-2151326.html?jmpid=zzfindcommandexpert",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "moviconnext",
+    "name": "Movicon.NExT",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Emerson",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.4.821.56",
+    "link": "https://go.emersonautomation.com/movicon-sftwr-dwnld",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "moviconproconnext",
+    "name": "Movicon Pro.Connext",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Emerson",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.4.821",
+    "link": "https://go.emersonautomation.com/connext-sftwr-dwnld-EN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "automationbuilder",
+    "name": "Automation Builder",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "ABB",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.5.0.2712",
+    "link": "https://www.abb.com/global/en/areas/motion/digital-tools/automation-builder",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "proficyifix",
+    "name": "Proficy iFIX",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "GE Vernova",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7.10.0000",
+    "link": "https://www.gevernova.com/software/product-trials/ifix-hmi-scada",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "proficycimplitity",
+    "name": "Proficy CIMPLITITY",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "GE Vernova",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "12.10.54287",
+    "link": "https://www.gevernova.com/software/product-trials/cimplicity-hmi-scada",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "proficyhistorian",
+    "name": "Proficy Historian",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "GE Vernova",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.1",
+    "link": "https://www.gevernova.com/software/product-trials/proficy-historian",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "mamidian",
+    "name": "Mamidian (妈咪店)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "retail"
+    ],
+    "publisher": "Mamidian (妈咪店)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "",
+    "link": "https://www.mamidian.com/cooperation",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "tongxi",
+    "name": "Tongxi (通洗)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "retail"
+    ],
+    "publisher": "Tongxi (通洗)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "",
+    "link": "https://www.tongxi.cn/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "pospalpccashierpc",
+    "name": "Pospal PC Cashier (银豹PC收银)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "retail"
+    ],
+    "publisher": "PosPal (银豹)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.71.102.5184",
+    "link": "https://www.pospal.cn/downcenter.aspx",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
   }
 ]
