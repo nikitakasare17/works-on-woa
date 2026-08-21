@@ -141397,7 +141397,7 @@
     "compatibility": "yes",
     "emulationType": "emulation",
     "versionFrom": "4.5",
-    "link": "http://www.laquis.com/downloads.html",
+    "link": "https://laquisscada.com/instale1.php",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
   },
@@ -141444,11 +141444,11 @@
       "iot",
       "it"
     ],
-    "publisher": "HiveMQ",
+    "publisher": "Advantech",
     "compatibility": "yes",
     "emulationType": "native",
     "versionFrom": "4",
-    "link": "https://www.hivemq.com/downloads/",
+    "link": "https://www.advantech.com/en-us/support/details/utility?id=1-1YVUBC7",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
   },
@@ -141461,11 +141461,11 @@
       "iot",
       "database"
     ],
-    "publisher": "Tatsoft",
+    "publisher": "HiveMQ",
     "compatibility": "yes",
     "emulationType": "emulation",
     "versionFrom": "4.22",
-    "link": "https://www.tatsoft.com/downloads/",
+    "link": "https://www.hivemq.com/",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
   },
@@ -141618,7 +141618,7 @@
     "compatibility": "yes",
     "emulationType": "emulation",
     "versionFrom": "1.005",
-    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "link": "https://www.wago.com/global/search?f=%3AresultType%3Adownload&with=GoDoctor&sort=relevance&pageSize=20",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
   },
@@ -141635,7 +141635,7 @@
     "compatibility": "yes",
     "emulationType": "emulation",
     "versionFrom": "1.16",
-    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "link": "https://www.wago.com/global/search?text=WAGO-ZUKEN%20E3-Interface",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
   },
@@ -141652,7 +141652,7 @@
     "compatibility": "yes",
     "emulationType": "emulation",
     "versionFrom": "1.1.6",
-    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "link": "https://www.wago.com/global/d/0200002e0003dfd7000100b6#versions",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
   },
