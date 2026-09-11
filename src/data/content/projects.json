@@ -36348,7 +36348,7 @@
   },
   {
     "slug": "etaxsoftwareforwindowsusers",
-    "name": "e-Tax software for Windows users",
+    "name": "e-Taxソフト ウィンドウズ利用者向け (e-Tax software for Windows users)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -36358,7 +36358,7 @@
     "compatibility": "yes",
     "emulationType": "emulation",
     "versionFrom": "001.025.004",
-    "link": "https://www.e-tax.nta.go.jp/download/e-taxSoftDownLoad.htm#flow04",
+    "link": "https://www.e-tax.nta.go.jp/download/e-taxSoftDownLoad.htm",
     "validation": "qualcomm",
     "lastUpdated": "2026-03-02"
   },
@@ -43357,8 +43357,8 @@
     "lastUpdated": "2024-04-01"
   },
   {
-    "slug": "fudegurume32",
-    "name": "Fudegurume32",
+    "slug": "fudegurume34",
+    "name": "筆ぐるめ 34 (Fudegurume34)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -43368,13 +43368,13 @@
     "compatibility": "yes",
     "emulationType": "emulation",
     "versionFrom": "32.00.0001",
-    "link": "https://fudegurume.jp/download/fgw/trial/",
+    "link": "https://www.sourcenext.com/product/nenga/fudegurume/purchase/?msockid=33b95ef8fa246cf625054931fbfd6db9",
     "validation": "qualcomm",
     "lastUpdated": "2026-03-02"
   },
   {
-    "slug": "fudemameselect2025",
-    "name": "Fudemame Select 2025",
+    "slug": "fudemame37a",
+    "name": "筆まめ 37 (Fudemame 37)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -43389,8 +43389,8 @@
     "lastUpdated": "2026-03-02"
   },
   {
-    "slug": "fudeohver29",
-    "name": "Fudeoh ver.29",
+    "slug": "fudeohver31",
+    "name": "筆王 31 (Fudeoh ver.31)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -55352,7 +55352,7 @@
   },
   {
     "slug": "jukedox",
-    "name": "Juke Dox",
+    "name": "ジュークドックス 4 (JukeDoX4)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -57804,7 +57804,7 @@
   },
   {
     "slug": "labelyasan10",
-    "name": "Labelyasan 10",
+    "name": "ラベル屋さん10 (Labelyasan 10)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -59420,7 +59420,7 @@
   },
   {
     "slug": "line",
-    "name": "LINE",
+    "name": "ライン (LINE)",
     "type": "application",
     "icon": "LINE.png",
     "categories": [
@@ -116054,7 +116054,7 @@
   },
   {
     "slug": "virusbustercloudstandardpremium",
-    "name": "ウィルスバスター クラウド スタンダード/プレミアム (Virus Buster Cloud Standard/Premium)",
+    "name": "ウイルスバスタークラウド スタンダード/プレミアム (Virus Buster Cloud Standard/Premium)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -124780,7 +124780,7 @@
   },
   {
     "slug": "zero",
-    "name": "ZEROウィルスセキュリティ",
+    "name": "ZEROウイルスセキュリティ (ZERO Virus Security)",
     "type": "application",
     "icon": "ZEROVirusSecurity.png",
     "categories": [
@@ -129821,7 +129821,7 @@
   },
   {
     "slug": "sakuraeditor",
-    "name": "Sakura Editor",
+    "name": "サクラエディタ (Sakura Editor)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -131328,7 +131328,7 @@
   },
   {
     "slug": "lineworks",
-    "name": "LINE WORKS",
+    "name": "ラインワークス (LINE WORKS)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -131489,7 +131489,7 @@
   },
   {
     "slug": "estartapp",
-    "name": "E START App",
+    "name": "E START アプリ (E START App)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -131537,7 +131537,7 @@
   },
   {
     "slug": "internetsagiwall",
-    "name": "Internet SagiWall",
+    "name": "詐欺ウォール (Internet SagiWall)",
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
@@ -141961,5 +141961,857 @@
     "link": "https://www.pospal.cn/downcenter.aspx",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
-  }
+  },
+  {
+    "slug": "chatgpt1",
+    "name": "チャットGPT (ChatGPT)",
+    "type": "application",
+    "icon": "ChatGPT.png",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "Open AI",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.2024.281.0",
+    "link": "https://www.microsoft.com/store/productId/9NT1R1C2HH7J",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "goproplayer1",
+    "name": "ゴープロ プレイヤー (GoPro Player)",
+    "type": "application",
+    "icon": "GoProplayer.png",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "GoPro",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.0.0.34",
+    "link": "https://www.microsoft.com/store/productId/9MW2BVRCG0B2",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "appleicloud1",
+    "name": "アップル アイクラウド (Apple iCloud)",
+    "type": "application",
+    "icon": "AppleiCloud.png",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Apple",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "14.2",
+    "link": "https://apps.microsoft.com/detail/9pktq5699m62",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+ {
+    "slug": "applemusic1",
+    "name": "アップル ミュージック (Apple Music)",
+    "type": "application",
+    "icon": "AppleMusic.png",
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "publisher": "Apple",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.5.2.26",
+    "link": "https://apps.microsoft.com/detail/9pfhdd62mxs1",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobeacrobatpro1",
+    "name": "アドビ アクロバット プロ (Adobe Acrobat (Pro))",
+    "type": "application",
+    "icon": "AdobeAcrobat.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "23.003.20284",
+    "link": "https://www.adobe.com/acrobat/free-trial-download.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobeacrobatreader1",
+    "name": "アドビ アクロバット リーダー (Adobe Acrobat Reader)",
+    "type": "application",
+    "icon": "AdobeAcrobat.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2023.006.20320",
+    "link": "https://get.adobe.com/reader/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobeaftereffects1",
+    "name": "アドビ アフター エフェクト (Adobe After Effects)",
+    "type": "application",
+    "icon": "AdobeAfterEffects.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "26.0",
+    "link": "https://www.adobe.com/products/aftereffects.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobeillustrator1",
+    "name": "アドビ イラストレーター (Adobe Illustrator)",
+    "type": "application",
+    "icon": "AdobeIllustrator.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "28.7 beta",
+    "link": "https://community.adobe.com/t5/illustrator-discussions/illustrator-beta-now-live-on-windows-for-arm-devices/td-p/14776027",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobeindesign1",
+    "name": "アドビ インデザイン (Adobe InDesign)",
+    "type": "application",
+    "icon": "AdobeInDesign.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "19.5 Beta",
+    "link": "https://helpx.adobe.com/indesign/kb/windows-arm-support.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobeexpress1",
+    "name": "アドビ エクスプレス (Adobe Express)",
+    "type": "application",
+    "icon": "AdobeExpress.png",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "2.1.1.0",
+    "link": "https://apps.microsoft.com/detail/9p94lh3q1cp5",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobeaudition1",
+    "name": "アドビ オーディション (Adobe Audition)",
+    "type": "application",
+    "icon": "AdobeAudition.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "25.3",
+    "link": "https://community.adobe.com/t5/audition-beta-discussions/now-in-beta-windows-on-arm-native-in-audition-beta/td-p/15434721",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobecreativecloudportal1",
+    "name": "アドビ クリエイティブ クラウド (ランチャー/ハブ) (Adobe Creative Cloud (Launcher/Hub))",
+    "type": "application",
+    "icon": "AdobeCC.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "5.11.0.522.1",
+    "link": "https://apps.microsoft.com/store/detail/XPDLPKWG9SW2WD",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobephotoshop1",
+    "name": "アドビ フォトショップ (Adobe Photoshop)",
+    "type": "application",
+    "icon": "AdobePhotoshop.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "25.5.0.375",
+    "link": "https://www.adobe.com/products/photoshop.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobephotoshopexpress1",
+    "name": "アドビ フォトショップ エクスプレス (Adobe Photoshop Express)",
+    "type": "application",
+    "icon": "AdobePhotoshopExpress.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.12.430",
+    "link": "https://apps.microsoft.com/detail/9wzdncrfj27n",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobephotoshopelements1",
+    "name": "アドビ フォトショップ エレメント (Adobe Photoshop Elements)",
+    "type": "application",
+    "icon": "AdobePhotoshopElements.avif",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "24",
+    "link": "https://apps.microsoft.com/detail/9nh55bf6lr3t",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+ {
+    "slug": "adobephotoshoplightroomclassic1",
+    "name": "アドビ フォトショップ ライトルーム クラシック (Adobe Photoshop Lightroom Classic)",
+    "type": "application",
+    "icon": "AdobePhotoshopLightroomClassic.png",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "14.5.1",
+    "link": "https://apps.microsoft.com/detail/xpdlpkwg9sw2wd",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobepremierepro1",
+    "name": "アドビ プレミア プロ (Adobe Premiere Pro)",
+    "type": "application",
+    "icon": "AdobePremierePro.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "23.6.8",
+    "link": "https://www.adobe.com/products/premiere/free-trial-download.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "adobemediaencoder1",
+    "name": "アドビ メディア エンコーダー (Adobe Media Encoder)",
+    "type": "application",
+    "icon": "AdobeMediaEncoder.svg",
+    "categories": [
+      "multimedia"
+    ],
+    "publisher": "Adobe",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "link": "https://www.adobe.com/products/media-encoder.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "avastsecurebrowser1",
+    "name": "アバスト セキュア ブラウザ (Avast Secure Browser)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "web-social"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "130.0.27176.93",
+    "link": "https://www.avast.com/en-us/secure-browser#pc",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+    {
+    "slug": "avastfreeantivirus1",
+    "name": "アバスト フリー アンチウイルス (Avast Free Antivirus)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "anti-virus"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "24.7.9311.1963",
+    "link": "https://www.avast.com/en-in/lp-ppc-free-av-brand?ppc_code=013&ppc=a&om_sem_cid=hho_sem_sy:~en-in_ava_sch_brn_exc_bng_dtp~&gclid=4f382b56a88e1b4ffa014def10c44340&gclsrc=3p.ds&msclkid=4f382b56a88e1b4ffa014def10c44340&utm_source=bing&utm_medium=cpc&utm_campaign=en-in_ava_sch_brn_exc_bng_dtp&utm_term=avast%20free%20antivirus&utm_content=top-avast_antivirus_free-exact#pc",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "amazonkindle1",
+    "name": "アマゾン キンドル (Amazon Kindle)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "books"
+    ],
+    "publisher": "Amazon",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.3.1.70682",
+    "link": "https://www.amazon.com/b?ie=UTF8&node=16571048011",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "amazonprimevideo1",
+    "name": "アマゾン プライムビデオ (Amazon Prime Video)",
+    "type": "application",
+    "icon": "AmazonPrimeVideo.png",
+    "categories": [
+      "entertainment"
+    ],
+    "publisher": "Amazon",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.0.148.0",
+    "link": "https://apps.microsoft.com/detail/9p6rc76msmmj",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+   {
+    "slug": "instagram1",
+    "name": "インスタグラム (Instagram)",
+    "type": "application",
+    "icon": "instagram.png",
+    "categories": [
+      "web-social"
+    ],
+    "publisher": "Meta",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "42.0.21.0",
+    "link": "https://apps.microsoft.com/detail/9nblggh5l9xt",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+    {
+    "slug": "wechat3",
+    "name": "ウィーチャット (WeChat)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "collaboration"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.9.11.25",
+    "link": "https://apps.microsoft.com/detail/XPFCKBRNFZQ62G",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+    {
+    "slug": "microsoftedge1",
+    "name": "マイクロソフト エッジ (Microsoft Edge)",
+    "type": "application",
+    "icon": "MicrosoftEdge.svg",
+    "categories": [
+      "browsers"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "126.0.2592.113",
+    "link": "https://apps.microsoft.com/detail/xpfftq037jwmhs",
+    "validation": "microsoft",
+    "lastUpdated": "2026-04-17",
+    "isMicrosoftApp": true,
+    "microsoftCategory": "communication",
+    "shouldShowNotes": false
+  },
+    {
+    "slug": "evernote64c7a79f1",
+    "name": "エバーノート  (Evernote)",
+    "type": "application",
+    "icon": "EverNote.png",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Evernote",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "10.64.3",
+    "link": "https://apps.microsoft.com/detail/9wzdncrfj3mb",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "endnotex71",
+    "name": "エンドノート (EndNote)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "X7.8",
+    "link": "https://support.clarivate.com/Endnote/s/article/EndNote-Download-link-for-older-EndNote-versions?language=en_US",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "capcut1",
+    "name": "キャップカット (CapCut)",
+    "type": "application",
+    "icon": "CapCut.png",
+    "categories": [
+      "video"
+    ],
+    "publisher": "BYTEDANCE PTE. LTD",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "4.0.1",
+    "link": "https://apps.microsoft.com/detail/xp9kn75rrb9nhs",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "googlegemini1",
+    "name": "グーグル ジェミニ (Google Gemini)",
+    "type": "application",
+    "icon": "googlegemini.svg",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "Google",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "2.5 Flash",
+    "link": "https://gemini.google.com/app",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "googlechrome1",
+    "name": "グーグル クロム (Google Chrome)",
+    "type": "application",
+    "icon": "GoogleChrome.svg",
+    "categories": [
+      "browsers"
+    ],
+    "publisher": "Google",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "116.0.5845.188",
+    "link": "https://google.com/chrome/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "googleslides1",
+    "name": "グーグル スライド (Google Slides)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Google",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "nan",
+    "link": "https://docs.google.com/presentation/u/0/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "googledocs1",
+    "name": "グーグル ドキュメント (Google Docs)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Google",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "nan",
+    "link": "https://docs.google.com/document/u/0/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "googledrive1",
+    "name": "グーグル ドライブ (Google Drive)",
+    "type": "application",
+    "icon": "GoogleDrive.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Google",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "100.0.2.0",
+    "link": "https://dl.google.com/drive-file-stream/arm64beta/GoogleDriveBetaSetup.exe",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+   {
+    "slug": "cyberlinkscreenrecorder1",
+    "name": "サイバーリンク スクリーンレコーダー (Cyberlink screen recorder)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "oss",
+      "dev-tools"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.3.1.27956",
+    "link": "https://www.cyberlink.com/downloads/application-manager/download_en_IN.html?r=1",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "cyberlinkpower2go1",
+    "name": "サイバーリンク パワー2Go (Cyberlink Power2Go)",
+    "type": "application",
+    "icon": "CyberLinkPower2Go.png",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "13.0.5318.0",
+    "link": "https://www.cyberlink.com/products/power2go-platinum",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "cyberlinkpowerdvd1",
+    "name": "サイバーリンク パワーDVD (Cyberlink PowerDVD)",
+    "type": "application",
+    "icon": "CyberlinkPowerDVD.png",
+    "categories": [
+      "entertainment"
+    ],
+    "publisher": "CyberLink Corp.",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "22.0.3214.62",
+    "link": "https://apps.microsoft.com/detail/xp8cbwrkp30vgs",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+ {
+    "slug": "cyberlinkpowerdirector3651",
+    "name": "サイバーリンク パワーディレクター (Cyberlink PowerDirector)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "23.1.1406.0",
+    "link": "https://www.cyberlink.com/downloads/trials/powerdirector-video-editing-software/download_en_US.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-08"
+  },
+ {
+    "slug": "notepad1",
+    "name": "メモ帳++ (Notepad++)",
+    "type": "application",
+    "icon": "NotepadPlusPlus.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "v8.5.6",
+    "link": "https://notepad-plus-plus.org/downloads/v8.5/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+    {
+    "slug": "microsoftoutlook1",
+    "name": "マイクロソフト アウトルック (Microsoft Outlook)",
+    "type": "application",
+    "icon": "MicrosoftOutlook.png",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "2308",
+    "link": "https://apps.microsoft.com/detail/9nrx63209r7b",
+    "validation": "microsoft",
+    "lastUpdated": "2026-04-17",
+    "isMicrosoftApp": true,
+    "microsoftCategory": "communication",
+    "shouldShowNotes": false
+  },
+   {
+    "slug": "microsoftaccess1",
+    "name": "マイクロソフト アクセス (Microsoft Access)",
+    "type": "application",
+    "icon": "MicrosoftAccess.svg",
+    "categories": [
+      "database"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2308",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
+    "validation": "microsoft",
+    "lastUpdated": "2026-03-02",
+    "isMicrosoftApp": true
+  },
+  {
+    "slug": "microsoftjournal1",
+    "name": "マイクロソフト ジャーナル (Microsoft Journal)",
+    "type": "application",
+    "icon": "MicrosoftJournal.png",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.25150.49.0",
+    "link": "https://apps.microsoft.com/detail/9N318R854RHH",
+    "validation": "microsoft",
+    "lastUpdated": "2026-03-02",
+    "isMicrosoftApp": true
+  },
+  {
+    "slug": "microsoftpowerpoint1",
+    "name": "マイクロソフト パワー ポイント (Microsoft Powerpoint)",
+    "type": "application",
+    "icon": "MicrosoftPowerpoint.png",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "2308",
+    "link": "https://m365.cloud.microsoft/apps",
+    "validation": "microsoft",
+    "lastUpdated": "2026-04-17",
+    "isMicrosoftApp": true,
+    "microsoftCategory": "productivity",
+    "shouldShowNotes": false
+  },
+    {
+    "slug": "microsoftpowertoys",
+    "name": "マイクロソフト パワートイズ (Microsoft PowerToys)",
+    "type": "application",
+    "icon": "MicrosoftPowerToys.png",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "v0.68.1",
+    "link": "https://github.com/microsoft/PowerToys/releases/tag/v0.68.1",
+    "validation": "microsoft",
+    "lastUpdated": "2026-04-17",
+    "isMicrosoftApp": true,
+    "microsoftCategory": "dev-tools",
+    "shouldShowNotes": false
+  },
+  {
+    "slug": "microsoftwhiteboard1",
+    "name": "マイクロソフト ホワイトボード (Microsoft Whiteboard)",
+    "type": "application",
+    "icon": "MicrosoftWhiteboard.png",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "23.10927.120",
+    "link": "https://apps.microsoft.com/detail/9mspc6mp8fm4",
+    "validation": "microsoft",
+    "lastUpdated": "2026-04-17",
+    "isMicrosoftApp": true,
+    "microsoftCategory": "creativity",
+    "shouldShowNotes": false
+  },
+ {
+    "slug": "microsoftremotedesktop1",
+    "name": "マイクロソフト リモート デスクトップ (Microsoft Remote Desktop)",
+    "type": "application",
+    "icon": "MicrosoftRemoteDesktop.png",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "10.2.3012.0",
+    "link": "https://apps.microsoft.com/detail/9wzdncrfj3ps",
+    "validation": "microsoft",
+    "lastUpdated": "2026-03-02",
+    "isMicrosoftApp": true
+  },
+  {
+    "slug": "mcafeesecurityscanplus1",
+    "name": "マカフィー セキュリティ スキャン プラス (McAfee Security Scan Plus)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "security"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.1.515.1",
+    "link": "https://www.mcafee.com/en-us/antivirus/mcafee-security-scan-plus.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "mcafeetotalprotection1",
+    "name": "マカフィー トータル プロテクション (McAfee Total Protection)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "anti-virus"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.12.299",
+    "link": "https://www.mcafee.com/en-us/antivirus/free.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+   {
+    "slug": "mcafeelivesafe1",
+    "name": "マカフィー リブセーフ (McAFee Live Safe)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "security"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.14.212.1",
+    "link": "https://www.mcafee.com/en-in/antivirus/mcafee-livesafe.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+   {
+    "slug": "mumumumuemulator1",
+    "name": "ムームーエミュレーター (MuMu Emulator)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.6.16.0",
+    "link": "https://mumu.163.com",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "microsoftonedrive1",
+    "name": "マイクロソフト ワンドライブ (Microsoft OneDrive)",
+    "type": "application",
+    "icon": "MicrosoftOneDrive.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Microsoft Corporation",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "23.153.0724.0001",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+    "validation": "microsoft",
+    "lastUpdated": "2026-03-02",
+    "isMicrosoftApp": true
+  },
+  {
+    "slug": "canva1",
+    "name": "キャンバ (Canva)",
+    "type": "application",
+    "icon": "Canva.png",
+    "categories": [
+      "multimedia"
+    ],
+    "publisher": "Canva",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.82.0",
+    "link": "https://apps.microsoft.com/detail/xp8k17rnmm8mtn",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "slug": "googleearth1",
+    "name": "グーグル アース (Google Earth)",
+    "type": "application",
+    "icon": "application-icon-white.svg",
+    "categories": [
+      "nav"
+    ],
+    "publisher": "Google",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7.3.6.9345",
+    "link": "https://www.google.com/earth/about/versions/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-03-02"
+  }              
 ]
