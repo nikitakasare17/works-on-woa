@@ -55360,7 +55360,7 @@
     ],
     "publisher": "",
     "compatibility": "yes",
-    "emulationType": "emulation",
+    "emulationType": "native",
     "versionFrom": "5.0.10",
     "link": "https://www.skyfish.co.jp",
     "validation": "qualcomm",
